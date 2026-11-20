@@ -1,6 +1,4 @@
-==================================================
-       SISTEMA DE DETECÇÃO DE INCÊNDIO
-==================================================
+SISTEMA DE DETECÇÃO DE INCÊNDIO
 
 DISCIPLINA: Sistemas Embarcados
 
@@ -10,13 +8,11 @@ INTEGRANTES:
 
 
 1. OBJETIVO DO PROJETO
---------------------------------------------------
 
 Desenvolver um sistema embarcado utilizando Arduino Uno para monitorar temperatura, presença de gases e luminosidade, identificando possíveis situações de incêndio e emitindo um alerta sonoro.
 
 
 2. COMPONENTES UTILIZADOS
---------------------------------------------------
 
 - 01 Arduino Uno
 - 01 Sensor de gás MQ-2
@@ -29,7 +25,6 @@ Desenvolver um sistema embarcado utilizando Arduino Uno para monitorar temperatu
 
 
 3. CUSTO ESTIMADO
---------------------------------------------------
 
 Arduino Uno........................ R$ 49,90
 Sensor MQ-2......................... R$ 18,80
@@ -39,16 +34,14 @@ Buzzer.............................. R$  2,18
 Display LCD 16x2.................... R$ 29,90
 Protoboard, resistores e jumpers.... R$ 32,52
 
-----------------------------------------------
+
 TOTAL ESTIMADO:                     R$ 142,20
-----------------------------------------------
 
 Valores aproximados, sujeitos a alterações
 conforme fornecedor e frete.
 
 
 4. ESQUEMA DE MONTAGEM
---------------------------------------------------
 
 A montagem do circuito foi desenvolvida utilizando
 o simulador Tinkercad Circuits.
@@ -56,17 +49,9 @@ o simulador Tinkercad Circuits.
 O sistema utiliza o Arduino Uno conectado aos três
 sensores, ao buzzer e ao display LCD.
 
-Imagem da montagem:
-docs/montagem-tinkercad.png
-
-
 5. CÓDIGO-FONTE
---------------------------------------------------
 
 O código-fonte foi desenvolvido em linguagem C++,
 utilizando a plataforma Arduino.
-
-O arquivo do projeto está disponível neste
-repositório GitHub:
 
 sistema_incendio.ino
