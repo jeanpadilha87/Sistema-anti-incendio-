@@ -26,20 +26,15 @@ Desenvolver um sistema embarcado utilizando Arduino Uno para monitorar temperatu
 
 3. CUSTO ESTIMADO
 
-Arduino Uno........................ R$ 49,90
-Sensor MQ-2......................... R$ 18,80
-Sensor TMP36........................ R$  8,40
-Sensor LDR.......................... R$  0,50
-Buzzer.............................. R$  2,18
-Display LCD 16x2.................... R$ 29,90
-Protoboard, resistores e jumpers.... R$ 32,52
-
+Arduino Uno R$ 49,90
+Sensor MQ-2 R$ 18,80
+Sensor TMP36 R$  8,40
+Sensor LDR R$  0,50
+Buzzer R$  2,18
+Display LCD 16x2 R$ 29,90
+Protoboard, resistores e jumpers R$ 32,52
 
 TOTAL ESTIMADO:                     R$ 142,20
-
-Valores aproximados, sujeitos a alterações
-conforme fornecedor e frete.
-
 
 4. ESQUEMA DE MONTAGEM
 
